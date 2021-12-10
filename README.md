@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 
 ## Minhas linguagens mais utilizadas!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasPaxao&layout=compact)](https://github.com/NicolasPaxao)
+
+
+[![Mario Souto's github stats](https://github-readme-stats.vercel.app/api?username=NicolasPaxao&theme=dark&show_icons=true&count_private=true)](https://github.com/NicolasPaxao)
