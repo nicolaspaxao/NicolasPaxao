@@ -13,12 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-## Meu status no GitHub!
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=NicolasPaxao&show_icons=true&locale=en" alt="Nicolas Paxão da Silva" />
-
+- 
 ## Minhas linguagens mais utilizadas!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasPaxao&layout=compact)](https://github.com/NicolasPaxao)
 
-
+## Meu status no GitHub!
 [![Mario Souto's github stats](https://github-readme-stats.vercel.app/api?username=NicolasPaxao&theme=dark&show_icons=true&count_private=true)](https://github.com/NicolasPaxao)
