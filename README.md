@@ -3,6 +3,7 @@
 [![followersGit](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NicolasPaxao)
 
 **Um pouco sobre mim!**
+
 I'm Nicolas, 22 years old.
 Frequently improving skills to create simple, scalable and quality assured solutions! 10 months experience with Flutter/Dart, basic Git commands and Scrum agile methodology.
 
