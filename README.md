@@ -4,6 +4,7 @@ I'm Nicolas, 22 years old.
 <p>About 1 year experience with Flutter/Dart, basic Git commands and Scrum agile methodology.</p>
 <p>I'm studing Flutter/Dart to be my main technology stack, and also, studing Java, C#, Js, HTML, CSS and Angular .</p>
 
+</br>
 <a href="https://nicolaspaxao.github.io/my_portfolio/" target="_blank">Acesse meu website</a>
 
 ## Meu linkedIn
