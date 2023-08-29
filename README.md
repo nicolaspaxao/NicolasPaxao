@@ -4,13 +4,9 @@ I'm Nicolas, 22 years old.
 <p>About 1 year experience with Flutter/Dart, basic Git commands and Scrum agile methodology.</p>
 <p>I'm studing Flutter/Dart to be my main technology stack, and also, studing Java, C#, Js, HTML, CSS and Angular .</p>
 
-</br>
 <div style="display: inline_block; gap: 10px">
-  <i class="fa-solid fa-house"></i>
-  <a href="https://nicolaspaxao.github.io/my_portfolio/" target="_blank">Acesse meu website</a>
+  <a href="https://nicolaspaxao.github.io/my_portfolio/" target="_blank" style="color: #fff">Acesse meu website</a>
 </div>
-
-</br>
 
 ## Meu linkedIn
 [![Connect on LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-pax%C3%A3o-da-silva-b53764178/)
