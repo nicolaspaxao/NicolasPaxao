@@ -5,7 +5,7 @@ I'm Nicolas, 22 years old.
 <p>I'm studing Flutter/Dart to be my main technology stack, and also, studing Java, C#, Js, HTML, CSS and Angular .</p>
 
 <div style="display: inline_block; gap: 10px">
-  <a href="https://nicolaspaxao.github.io/my_portfolio/" target="_blank" style="color: #fff">Acesse meu website</a>
+  <a href="https://nicolaspaxao.github.io/my_web_site/" target="_blank" style="color: #fff">Acesse meu website</a>
 </div>
 
 ## Meu linkedIn
