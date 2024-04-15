@@ -9,7 +9,7 @@ I'm Nicolas, 22 years old.
 </div>
 
 ## Meu linkedIn
-[![Connect on LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-pax%C3%A3o-da-silva-b53764178/)
+[![Connect on LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-pax%C3%A3o-b53764178/)
 
 ## Meu status no GitHub!
 [![Mario Souto's github stats](https://github-readme-stats.vercel.app/api?username=NicolasPaxao&theme=radical&show_icons=true&count_private=true)](https://github.com/NicolasPaxao)
