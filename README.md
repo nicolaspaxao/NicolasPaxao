@@ -26,4 +26,5 @@ I'm Nicolas, 22 years old.
   <img align="center" alt="Nicolas-Angular" height="30" width="30" src="https://avatars.githubusercontent.com/u/139426?s=200&v=4">
   <img align="center" alt="Nicolas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Nicolas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Nicolas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
