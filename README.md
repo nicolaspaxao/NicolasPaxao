@@ -1,11 +1,9 @@
 ## **<"Hello, World! 🖖"/>**
-I'm Nicolas, 23 years old.
-<p>Frequently improving skills to create simple, scalable and quality assured solutions!</p>
-<p>About 1 year experience with Flutter/Dart, basic Git commands and Scrum agile methodology.</p>
-<p>I'm studing Flutter/Dart to be my main technology stack, and also, studing Java, C#, Js, HTML, CSS and Angular .</p>
-
+I'm Nicolas, 24 years old.
+<p>Frequently improving skills to create simple, scalable and quality assured solutions! About 4 years working with different approches and technologies.</p>
+<p>I'm currently working on Mercado Libre as Cybersecurity Developer</p>
 <div style="display: inline_block; gap: 10px">
-  <a href="https://nicolaspaxao.github.io/my_web_site/" target="_blank" style="color: #fff">Acesse meu website</a>
+  <a href="https://nickdev-personal-blog.vercel.app" target="_blank" style="color: #fff">Acesse meu website</a>
 </div>
 
 ## Meu linkedIn
@@ -23,8 +21,6 @@ I'm Nicolas, 23 years old.
   <img align="center" alt="Nicolas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nicolas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nicolas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Nicolas-Angular" height="30" width="30" src="https://avatars.githubusercontent.com/u/139426?s=200&v=4">
-  <img align="center" alt="Nicolas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Nicolas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Nicolas-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Nicolas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
