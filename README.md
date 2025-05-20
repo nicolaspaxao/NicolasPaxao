@@ -3,7 +3,7 @@ I'm Nicolas, 24 years old.
 <p>Frequently improving skills to create simple, scalable and quality assured solutions! About 4 years working with different approches and technologies.</p>
 <p>I'm currently working on Mercado Libre as Cybersecurity Developer</p>
 <div style="display: inline_block; gap: 10px">
-  <a href="https://nickdev-personal-blog.vercel.app" target="_blank" style="color: #fff">Acesse meu website</a>
+  <a href="https://nickdev-personal-blog.vercel.app" target="__blank" style="color: #fff">Acesse meu website</a>
 </div>
 
 ## Meu linkedIn
